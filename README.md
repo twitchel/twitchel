@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on IoT all the things
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently working on improving my dotfiles setup
+- 🌱 I’m currently learning Kubernetes
 - 💬 Ask me about yes
-- 📫 How to reach me: me@danielkjones.com
+- 📫 How to reach me: contact@danieljones.net
 - ⚡ Fun fact: ...
 
